@@ -6,19 +6,19 @@ INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/
 INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/main/AndroidManifest.xml:1:1-50:12
 MERGED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/main/AndroidManifest.xml:1:1-50:12
 MERGED from [:android_notification_listener2] /home/techmirtz/projects/Flutter/flutter_apps/notilog/build/android_notification_listener2/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/ba80674a1a5fdce2b1b29eea5683af77/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/68865d38a53fb5c240061f062e474515/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2f70304b103eacfab05dbe55739e869f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/49dee3543bc65746b6bba9f83aa0b18a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/86cf751735e9e9dd0416cce35c4a71a1/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/b37a656be7da34e79d326523a32fbcaa/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/29e9e6ac99026fff5bb21139b2ad74ac/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/15faa7fdc535e832982b4615d300cb77/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/033c1099bb4cd11be9138377da501d59/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/943631e3c5a6dfa67bece88add1d3fe3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b6a4e71d38d3b36d0c903aac26cfd25/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/424f2fc6a5e82a83bd0d6c46f6708692/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/742334c38fc48ad0b8bce8e9fad8cf66/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/b63684152a26f065a175e5eec1e14ee4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/5503691fc2f0aa2a470ce3583f068a18/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/e637e21f74d1cf272cf46843201f358a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b89b31f05ceb2c14f79672ffe5b2bfe/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/67ce463cf85eeabac92aec4c7a2866fa/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/48814cf6095e2965f15f7f9960c52f56/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/fe3d2acea932cb803c5dd54755eb8ad0/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/39ce2acb6fa6ed07302209dbe579ef69/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/93b4d2d185c390c18bdfbe0263227400/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/0dd9a0c103c89631972ea5a513a4a43f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/da4bdcc9b327dc30faf36f31160e1bcc/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -44,12 +44,12 @@ MERGED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/sr
 		ADDED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/main/AndroidManifest.xml:3:22-64
 application
 ADDED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/main/AndroidManifest.xml:5:5-49:19
-MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b89b31f05ceb2c14f79672ffe5b2bfe/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b89b31f05ceb2c14f79672ffe5b2bfe/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/0dd9a0c103c89631972ea5a513a4a43f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/0dd9a0c103c89631972ea5a513a4a43f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b89b31f05ceb2c14f79672ffe5b2bfe/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/main/AndroidManifest.xml:6:9-32
 	android:icon
@@ -116,32 +116,32 @@ INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/
 INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/main/AndroidManifest.xml
 MERGED from [:android_notification_listener2] /home/techmirtz/projects/Flutter/flutter_apps/notilog/build/android_notification_listener2/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:android_notification_listener2] /home/techmirtz/projects/Flutter/flutter_apps/notilog/build/android_notification_listener2/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/ba80674a1a5fdce2b1b29eea5683af77/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/ba80674a1a5fdce2b1b29eea5683af77/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/68865d38a53fb5c240061f062e474515/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/68865d38a53fb5c240061f062e474515/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2f70304b103eacfab05dbe55739e869f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2f70304b103eacfab05dbe55739e869f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/49dee3543bc65746b6bba9f83aa0b18a/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/49dee3543bc65746b6bba9f83aa0b18a/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/86cf751735e9e9dd0416cce35c4a71a1/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/86cf751735e9e9dd0416cce35c4a71a1/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/d67cd79abd1ca209502f51c69d23182b/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/b37a656be7da34e79d326523a32fbcaa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/b37a656be7da34e79d326523a32fbcaa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/29e9e6ac99026fff5bb21139b2ad74ac/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/29e9e6ac99026fff5bb21139b2ad74ac/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/15faa7fdc535e832982b4615d300cb77/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/15faa7fdc535e832982b4615d300cb77/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/033c1099bb4cd11be9138377da501d59/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/033c1099bb4cd11be9138377da501d59/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/943631e3c5a6dfa67bece88add1d3fe3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/943631e3c5a6dfa67bece88add1d3fe3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/af9af86a2035b10a0514f89f66cf8a9a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b6a4e71d38d3b36d0c903aac26cfd25/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b6a4e71d38d3b36d0c903aac26cfd25/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/424f2fc6a5e82a83bd0d6c46f6708692/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/424f2fc6a5e82a83bd0d6c46f6708692/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/742334c38fc48ad0b8bce8e9fad8cf66/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/742334c38fc48ad0b8bce8e9fad8cf66/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/b63684152a26f065a175e5eec1e14ee4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/b63684152a26f065a175e5eec1e14ee4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/5503691fc2f0aa2a470ce3583f068a18/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/5503691fc2f0aa2a470ce3583f068a18/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/e637e21f74d1cf272cf46843201f358a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/e637e21f74d1cf272cf46843201f358a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b89b31f05ceb2c14f79672ffe5b2bfe/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/2b89b31f05ceb2c14f79672ffe5b2bfe/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/67ce463cf85eeabac92aec4c7a2866fa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/67ce463cf85eeabac92aec4c7a2866fa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/48814cf6095e2965f15f7f9960c52f56/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/48814cf6095e2965f15f7f9960c52f56/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/fe3d2acea932cb803c5dd54755eb8ad0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/fe3d2acea932cb803c5dd54755eb8ad0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/39ce2acb6fa6ed07302209dbe579ef69/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/39ce2acb6fa6ed07302209dbe579ef69/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/93b4d2d185c390c18bdfbe0263227400/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/93b4d2d185c390c18bdfbe0263227400/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/0dd9a0c103c89631972ea5a513a4a43f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/0dd9a0c103c89631972ea5a513a4a43f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/da4bdcc9b327dc30faf36f31160e1bcc/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/techmirtz/.gradle/caches/transforms-2/files-2.1/da4bdcc9b327dc30faf36f31160e1bcc/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/techmirtz/projects/Flutter/flutter_apps/notilog/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion

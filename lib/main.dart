@@ -29,14 +29,16 @@ class _MyAppState extends State<MyApp> {
 
     // print(event);
     if(!event.packageName.contains(new RegExp(r'com.android',
-        caseSensitive: false)) && event.packageName != "com.evozi.network") {
-      // ignoring system app notifications
-      print("App: " + event.packageName);
-      print("Timestamp: " + event.timeStamp.toString());
-      print("Text: " + event.packageText);
-      print("Message: " + event.packageMessage);
-      print("Extra: " + event.packageExtra);
-      print("----------------------------------------------------------------");
+        caseSensitive: true))) {
+        if (event?.packageMessage == null) {
+    // ignoring system app notifications
+    print("App: " + event.packageName);
+    print("Timestamp: " + event.timeStamp.toString());
+    print("Text: " + event.packageText);
+    print("Message: " + event.packageMessage);
+    print("Extra: " + event.packageExtra);
+    print("----------------------------------------------------------------");
+    }
     }
 
     // print('converting package extra to json');

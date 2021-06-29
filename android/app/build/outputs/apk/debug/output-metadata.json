@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.techmirtz.notilog.notilog",
+  "applicationId": "com.techmirtz.notilog",
   "variantName": "processDebugResources",
   "elements": [
     {
