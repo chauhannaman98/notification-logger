@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'dart:convert';
 
 import 'package:android_notification_listener2/android_notification_listener2.dart';
 
@@ -29,7 +28,8 @@ class _MyAppState extends State<MyApp> {
   void onData(NotificationEventV2 event) {
 
     // print(event);
-    if(!event.packageName.contains(new RegExp(r'com.android', caseSensitive: false))) {
+    if(!event.packageName.contains(new RegExp(r'com.android',
+        caseSensitive: false)) && event.packageName != "com.evozi.network") {
       // ignoring system app notifications
       print("App: " + event.packageName);
       print("Timestamp: " + event.timeStamp.toString());
