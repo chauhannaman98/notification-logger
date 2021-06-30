@@ -5,26 +5,13 @@
     <application
         android:label="notilog"
         android:icon="@mipmap/ic_launcher">
-<!--        <service android:name="com.emilecode.android_notification_listener2.NotificationListener"-->
-<!--            android:label="notifications"-->
-<!--            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">-->
-<!--            <intent-filter>-->
-<!--                <action android:name="android.service.notification.NotificationListenerService" />-->
-<!--            </intent-filter>-->
-<!--        </service>-->
-        <service android:name="im.zoe.labs.flutter_notification_listener.NotificationsHandlerService"
-            android:label="Flutter Notifications Handler"
+        <service android:name="com.emilecode.android_notification_listener2.NotificationListener"
+            android:label="notifications"
             android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
             <intent-filter>
                 <action android:name="android.service.notification.NotificationListenerService" />
             </intent-filter>
         </service>
-        <receiver android:name="im.zoe.labs.flutter_notification_listener.RebootBroadcastReceiver"
-            android:enabled="true">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED" />
-            </intent-filter>
-        </receiver>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
